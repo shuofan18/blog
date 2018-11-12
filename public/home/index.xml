@@ -50,15 +50,6 @@
     
     <item>
       <title>Research Experience</title>
-      <link>/home/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/home/events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research Experience</title>
       <link>/home/experience/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -146,12 +137,12 @@
       
       <guid>/home/awards/</guid>
       <description>2017 Monash Business School Student Excellence Award, in recognition of exceptional academic excellence in:
- Principles of Econometrics;
- Microeconomics;
- Applied Econometrics;
- Applied Econometrics 2;
- Financial Econometrics;
- Financial Econometrics 2.
+ Principles of Econometrics (top 1);
+ Microeconomics (top 1);
+ Applied Econometrics (top 1);
+ Applied Econometrics 2 (top 1);
+ Financial Econometrics (top 1);
+ Financial Econometrics 2 (top 1).
   </description>
     </item>
     
@@ -171,6 +162,15 @@
       
       <guid>/home/contact/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home/awards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/awards/</guid>
+      <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>
