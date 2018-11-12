@@ -64,7 +64,7 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "shuofan.zhang@monash.edu"
   address = "E881 Menzies, 20 Chancellors Walk, Clayton, Vic, 3800, Australia"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  office_hours = "By appointment"
   keybase = ""  # Your keybase.io username.
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
@@ -250,22 +250,22 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+    link = "mailto:shuofan.zhang@monash.edu"  # For a direct email link, use "mailto:test@example.org".
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fab"
-    link = "https://twitter.com/GeorgeCushen"
+ # [[params.social]]
+ #   icon = "twitter"
+ #   icon_pack = "fab"
+ #   link = "https://twitter.com/GeorgeCushen"
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+ # [[params.social]]
+ #   icon = "google-scholar"
+ #   icon_pack = "ai"
+ #   link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "https://github.com/gcushen"
+    link = "https://github.com/shuofan18"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -301,6 +301,11 @@ enableGitInfo = false
   name = "Awards"
   url = "#awards"
   weight = 4
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 5
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
