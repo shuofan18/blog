@@ -257,10 +257,10 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "img/wechat.jpg"
 
- # [[params.social]]
- #   icon = "twitter"
- #   icon_pack = "fab"
- #   link = "https://twitter.com/GeorgeCushen"
+ [[params.social]]
+    icon = "instagram"
+    icon_pack = "fab"
+    link = "https://www.instagram.com/stanza2016/"
 
  # [[params.social]]
  #   icon = "google-scholar"
