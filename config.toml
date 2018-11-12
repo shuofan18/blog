@@ -252,6 +252,11 @@ enableGitInfo = false
     icon_pack = "fas"
     link = "mailto:shuofan.zhang@monash.edu"  # For a direct email link, use "mailto:test@example.org".
 
+[[params.social]]
+    icon = "weixin"
+    icon_pack = "fab"
+    link = "img/wechat.jpg"
+
  # [[params.social]]
  #   icon = "twitter"
  #   icon_pack = "fab"
