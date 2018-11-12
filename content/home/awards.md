@@ -13,17 +13,19 @@ weight = 65
 
 +++
 
- 2017 Monash Business School Student Excellence Award, in recognition of exceptional academic excellence in:
+* 2017 Monash Business School Student Excellence Award, in recognition of exceptional academic excellence in:
 
-* Principles of Econometrics (top 1);
+  + Principles of Econometrics (top 1);
 
-* Microeconomics (top 1);
+  + Microeconomics (top 1);
 
-* Applied Econometrics (top 1);
+  + Applied Econometrics (top 1);
 
-* Applied Econometrics 2 (top 1);
+  + Applied Econometrics II (top 1);
 
-* Financial Econometrics (top 1);
+  + Financial Econometrics (top 1);
 
-* Financial Econometrics 2 (top 1).
+  + Financial Econometrics II (top 1).
+  
+* 2018 Econometric Game in University of Amsterdam.
 

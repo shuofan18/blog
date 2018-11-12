@@ -4,7 +4,7 @@ widget = "featurette"  # Do not modify this line!
 date = 2017-09-20T00:00:00
 
 # Activate this widget? true/false
-active = false
+active = true
 
 title = "Skills"
 subtitle = ""
@@ -25,18 +25,20 @@ weight = 7
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  description = "90%"
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "stripe-s"
+  icon_pack = "fab"
+  name = "Stata"
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
-
+  icon = "etsy"
+  icon_pack = "fab"
+  name = "Eviews"
+  
+[[feature]]
+  icon = "medium-m"
+  icon_pack = "fab"
+  name = "Matlab"  
+  
 +++
