@@ -39,6 +39,11 @@ weight = 7
 [[feature]]
   icon = "medium-m"
   icon_pack = "fab"
-  name = "Matlab"  
+  name = "Matlab" 
+  
+[[feature]]
+  icon = "square-root-alt"
+  icon_pack = "fas"
+  name = "LaTeX" 
   
 +++
