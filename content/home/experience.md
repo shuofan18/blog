@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -22,7 +22,7 @@ date_format = "January 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Monash University"
-  company_url = ""
+  company_url = "https://www.monash.edu/"
   location = "Melbourne Australia"
   date_start = "2018-06-21"
   date_end = ""
@@ -31,10 +31,19 @@ date_format = "January 2006"
 [[experience]]
   title = "Research Assistant"
   company = "Monash University"
-  company_url = ""
+  company_url = "https://www.monash.edu/"
   location = "Melbourne Australia"
   date_start = "2018-08-23"
   date_end = ""
   description = """Analyse the effect of live streaming used in the lecture on the students' performance, including survey questions design, factor analysis to survey data, causal effect investigation etc."""
+  
+[[experience]]
+  title = "Master Thesis"
+  company = "Monash University"
+  company_url = "https://www.monash.edu/"
+  location = "Melbourne Australia"
+  date_start = "2018-02-27"
+  date_end = "2018-06-06"
+  description = """Can we teach the computer to read residual plots? In this study, we investigate the possibility of a deep learning model reading residual plots and compare the results with a large database of human experiments."""
 
 +++
