@@ -26,16 +26,9 @@ date_format = "January 2006"
   location = "Melbourne Australia"
   date_start = "2018-06-21"
   date_end = ""
-  description = """Investigate the property of Lasso and render data experiment for the working paper 'High-dimentional predictive regression in the presence of cointegration' which is written by Bonsoo Koo, Heather Anderson, Myung Hwan Seo and Wenying Yao."""
+  description = """Investigate the property of Lasso and render data experiment for the working paper 'High-dimentional predictive regression in the presence of cointegration' which is written by Bonsoo Koo, Heather Anderson, Myung Hwan Seo and Wenying Yao.
   
-[[experience]]
-  title = "Research Assistant"
-  company = "Monash University"
-  company_url = "https://www.monash.edu/"
-  location = "Melbourne Australia"
-  date_start = "2018-08-23"
-  date_end = ""
-  description = """Analyse the effect of live streaming used in the lecture on the students' performance, including survey questions design, factor analysis to survey data, causal effect investigation etc."""
+  Meanwhile, I am also working with the learning and teaching group, our aim is to analyse the effect of live streaming used in the lecture on the students' performance. Our research includes survey questions design, factor analysis to survey data, causal effect investigation etc."""
   
 [[experience]]
   title = "Master Thesis"

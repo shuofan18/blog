@@ -20,12 +20,10 @@ weight = 5
 [[education.courses]]
   course = "Ms in Applied Econometrics"
   institution = "Monash University"
-  year = 2016
 
 [[education.courses]]
   course = "BSc in International Business"
   institution = "Shanghai Customs College"
-  year = 2009
  
 +++
 
