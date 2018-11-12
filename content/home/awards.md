@@ -13,27 +13,17 @@ weight = 65
 
 +++
 
-* 2017 Monash Business School Student Excellence Award
+2017 Monash Business School Student Excellence Award, in recognition of exceptional academic excellence in:
 
-In recognition of exceptional academic excellence in Principles of Econometrics
+* Principles of Econometrics;
 
-* 2017 Monash Business School Student Excellence Award
+* Microeconomics;
 
-In recognition of exceptional academic excellence in Microeconomics
+* Applied Econometrics;
 
-* 2017 Monash Business School Student Excellence Award
+* Applied Econometrics 2;
 
-In recognition of exceptional academic excellence in Applied Econometrics
+* Financial Econometrics;
 
-* 2017 Monash Business School Student Excellence Award
-
-In recognition of exceptional academic excellence in Applied Econometrics 2
-
-* 2017 Monash Business School Student Excellence Award
-
-In recognition of exceptional academic excellence in Financial Econometrics
-
-* 2017 Monash Business School Student Excellence Award
-
-In recognition of exceptional academic excellence in Financial Econometrics 2
+* Financial Econometrics 2.
 

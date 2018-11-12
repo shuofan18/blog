@@ -31,4 +31,4 @@ weight = 5
 
 # Biography
 
-Shuofan Zhang is a research assistant of applied econometrics at the Monash University. Her research interests include applied econometrics, macroeconometrics and statistics.
+Hello, I am a research assistant of applied econometrics at the Monash University. My research interests include applied econometrics, macroeconomics and statistics.
