@@ -19,3 +19,4 @@ I am a teaching associate for the following courses at Monash University:
 
 - ETC3410/BEX3410/ETC5341: Applied Econometrics
 - ETC2520/BEX2520/ETC5252: Probability and statistical inference for economics and business
+- ETC3460/BEX3460/ETC5346: Financial Econometrics
