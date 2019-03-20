@@ -15,8 +15,11 @@ weight = 60
 
 +++
 
-I am a teaching associate for the following courses at Monash University:
+Semester Two, 2018 at Monash University:
 
 - ETC3410/BEX3410/ETC5341: Applied Econometrics
 - ETC2520/BEX2520/ETC5252: Probability and statistical inference for economics and business
+
+Semester One, 2019 at Monash University:
+
 - ETC3460/BEX3460/ETC5346: Financial Econometrics
